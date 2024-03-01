@@ -1,6 +1,6 @@
-# Belly Button-challenge
+# Belly Button Challenge
 
-![alt text](image-1.png)
+![alt text](image.png)
 
 # Link
 https://bfletchall.github.io/belly-button-challenge/
